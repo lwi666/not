@@ -1,0 +1,1 @@
+{"author":"MannuG","dependencies":{"config":"^3.3.3","fs":"0.0.1-security","mineflayer":"^2.37.1"},"description":"","license":"ISC","main":"index.js","name":"afkboty6","scripts":{"start":"node index.js"},"version":"1.0.0"}
